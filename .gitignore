@@ -1,0 +1,21 @@
+# ignore file for github
+# ======= Anything in the ignore folder at all
+
+ignore
+ignore/**
+
+# ======= Anything Node related
+node_modules
+node_modules/**
+
+# ======= Don't Track the Assets folder
+
+assets
+assets/**
+
+# ======= Forget about the glupfile
+gulpfile.js
+
+# ======= Don't track the .git folder
+# .git
+# .git/**
